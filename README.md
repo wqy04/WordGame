@@ -1,0 +1,2 @@
+# WordGame
+在校期间做的一款基于JAVAspring框架的不成熟小游戏
